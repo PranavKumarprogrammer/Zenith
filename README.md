@@ -39,14 +39,14 @@ Choose your preferred method:
 #### Using Git CLI (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/zenith-memory.git
+git clone https://github.com/PranavKumarprogrammer/Zenith
 cd zenith-memory
 ```
 
 #### Using HTTPS
 
 ```bash
-git clone https://github.com/yourusername/zenith-memory.git
+git clone https://github.com/PranavKumarprogrammer/Zenith
 cd zenith-memory
 ```
 
@@ -59,7 +59,7 @@ cd zenith-memory
 
 #### Download as ZIP
 
-1. Go to the [GitHub repository](https://github.com/yourusername/zenith-memory)
+1. Go to the [GitHub repository](https://github.com/PranavKumarprogrammer/Zenith)
 2. Click **Code** → **Download ZIP**
 3. Extract the ZIP file
 4. Open terminal in the extracted folder
