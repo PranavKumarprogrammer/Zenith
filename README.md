@@ -53,7 +53,7 @@ cd zenith-memory
 #### Using SSH
 
 ```bash
-git clone git@github.com:yourusername/zenith-memory.git
+git clone git@github.com:PranavKumarprogrammer:Zenith
 cd zenith-memory
 ```
 
